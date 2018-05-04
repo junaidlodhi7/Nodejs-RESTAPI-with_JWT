@@ -2,10 +2,10 @@
 seed project for nodejs resttful api using Json Web tokens
 #### Make Sure you run these command in the project folder
 in  the command line
-npm install express
-npm install body-parser
-npm install morgan
-npm install mongoose
+npm install express  
+npm install body-parser  
+npm install morgan  
+npm install mongoose  
 npm install jsonwebtoken
 
 #### Ready to Go 
